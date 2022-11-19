@@ -7,7 +7,7 @@ console.log('Script started successfully');
 // Waiting for the API to be ready
 WA.onInit().then(() => {
 
-    WA.room.onEnterLayer('Settings/zoneBuilding').subscribe(() => {
+    WA.room.onEnterLayer('_Settings/zoneBuilding').subscribe(() => {
         WA.room.showLayer("Building/overlayBuilding");
         
         WA.room.hideLayer("Building/aboveBuilding3");
@@ -17,7 +17,7 @@ WA.onInit().then(() => {
         WA.room.hideLayer("Building/Building1");
     })
 
-    WA.room.onLeaveLayer('Settings/zoneBuilding').subscribe(() => {
+    WA.room.onLeaveLayer('_Settings/zoneBuilding').subscribe(() => {
         WA.room.hideLayer("Building/overlayBuilding");
         
         WA.room.showLayer("Building/aboveBuilding3");
