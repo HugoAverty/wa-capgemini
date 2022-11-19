@@ -1313,7 +1313,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -1333,7 +1333,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -1361,7 +1361,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -1381,7 +1381,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -1409,7 +1409,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -1429,7 +1429,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -1457,7 +1457,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -1477,7 +1477,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -1505,7 +1505,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -1525,7 +1525,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -1553,7 +1553,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -1573,7 +1573,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"src\/access_granted.mp3"
+                         "value":"https:\/\/github.com\/HugoAverty\/wa-capgemini\/raw\/master\/src\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
