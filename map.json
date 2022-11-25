@@ -1068,8 +1068,6 @@
                  "y":0
                 }],
          "name":"Building",
-         "offsetx":153.5,
-         "offsety":29.5,
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -1611,12 +1609,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Capgemini main office map"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"map.png"
         }, 
         {
          "name":"mapLink",
@@ -1626,7 +1624,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Capgemini Office"
         }, 
         {
          "name":"script",
